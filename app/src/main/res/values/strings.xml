@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Valet</string>
+    <string name="valet"></string>
+    <string name="modelo">Modelo</string>
+    <string name="placa">Placa</string>
+    <string name="salvar">Salvar</string>
+    <string name="novo">Novo</string>
+    <string name="saida">Saída do veículo</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
